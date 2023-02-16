@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa38f808-d9dc-41e0-973c-f5cd4d4797c5" name="Changes" comment="" />
+    <list default="true" id="fa38f808-d9dc-41e0-973c-f5cd4d4797c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Newconnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newselect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emobilis.db" beforeDir="false" afterPath="$PROJECT_DIR$/emobilis.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +59,9 @@
       <module name="MorningGracepython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -182,7 +191,9 @@
       <workItem from="1676276155849" duration="34000" />
       <workItem from="1676350208735" duration="2182000" />
       <workItem from="1676352554761" duration="7864000" />
-      <workItem from="1676436177959" duration="8449000" />
+      <workItem from="1676436177959" duration="8838000" />
+      <workItem from="1676521503986" duration="954000" />
+      <workItem from="1676522552942" duration="2944000" />
     </task>
     <servers />
   </component>
